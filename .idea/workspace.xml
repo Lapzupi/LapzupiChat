@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../Composer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Elypia" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../EnchantGUI" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../FarmassistReboot/FarmAssistReboot" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../JNBT" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../PlaceholderAPI" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../ProtocolSupport" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../SF-Guide" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../TaleCraft" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../TidepoolAPILib" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../ToolStats" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../WorldEdit" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../WorldGuard" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="2pcwrqQDLo46r6E7l2m69uoZESg" />
+</project>
